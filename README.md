@@ -1,5 +1,8 @@
 # Automotive Parts Order Fulfillment Analytics
 
+<img width="1411" height="786" alt="dashboard_main" src="https://github.com/user-attachments/assets/2c1f149d-9a87-4793-baa0-5b73b027937c" />
+
+
 ## 📊 Project Overview
 This project is a comprehensive Power BI dashboard designed to analyze and optimize the flow of automotive parts orders across multiple regional branches. It tracks the distribution of orders across various sales channels (Body Shop, Service, Aftermarket, Subdealers) and monitors the critical balance between expedited (URGENT) and standard (STOCK) orders.
 
